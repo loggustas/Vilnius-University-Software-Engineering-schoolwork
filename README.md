@@ -1,1 +1,1 @@
-# Vilnius-University-Software-Engineering-schoolwork
+# Vilnius University Software Engineering schoolwork
